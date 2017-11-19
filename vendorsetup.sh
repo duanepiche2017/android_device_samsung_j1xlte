@@ -1,0 +1,2 @@
+add_lunch_combo lineage_j1xlte-eng
+add_lunch_combo lineage_j1xlte-userdebug
